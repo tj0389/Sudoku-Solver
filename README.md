@@ -4,13 +4,13 @@ Here we Use opencv to Recognise sudoku from uploaded image and solve it using ba
 
 ### Highlights : 
 <pre>
-   1. Use Opencv libraray in Python to do all image Modification like add blur,border to make identification of digits easier.
+   1. Use Opencv library in Python to do all image Modification like add blur,border,canny to make identification of digits easier.
    2. Train Deep Learning/CNN Model to recoginse handwritten digit in sudoku.
    3. Solve the Sudoku using backtracking techniques/algorithms.
    4. Use warp techniques to project the solved sudoku to the original image.
 </pre>
 
-### Steps To Run Project-
+### Steps To Run Project :
 <pre>
   1. Clone My Repository on your local computer.
   2. Run solve_sudoku file using command "python solve_sudoku.py".
